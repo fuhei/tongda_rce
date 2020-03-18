@@ -8,4 +8,6 @@ python3 tongda_rce.py url
 
 # Screenshot:
 
+![](./2.png)
+![](./3.png)
 ![](./1.jpg)
